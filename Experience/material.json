@@ -1,0 +1,36 @@
+{
+  "brick": {
+    "strength": ["M-50", "M-75", "M-100", "M-125", "M-150","M-200","M-250","M-300","M-350","M-500","M-1000"],
+    "frost resistance": ["F-15", "F-20","F-25","F-30","F-35","F-40","F-50","F-100","F-150","F-200"]
+  },
+  "foam block": {
+    "weight": null,
+    "strength": null,
+    "heat capacity": null,
+    "heat transfer resistance": null
+  },
+  "ceramic block": {
+    "weight": null,
+    "strength": null,
+    "heat capacity": null,
+    "heat transfer resistance": null
+  },
+  "gas block": {
+    "weight": null,
+    "strength": null,
+    "heat capacity": null,
+    "heat transfer resistance": null
+  },
+  "concrete": {
+    "weight": null,
+    "strength": null,
+    "heat capacity": null,
+    "heat transfer resistance": null
+  },
+  "wood": {
+    "weight": null,
+    "strength": null,
+    "heat capacity": null,
+    "heat transfer resistance": null
+  }
+}
