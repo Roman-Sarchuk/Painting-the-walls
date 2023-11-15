@@ -3,7 +3,7 @@ Program is developing
 - [x] Main menu
 - [ ] Area menu  (in progress)
 - [ ] Paint menu
-- [ ] Pimer menu
+- [ ] Primer menu
 
 ## Photos of the sketch
 ![MAIN memu](https://github.com/Roman-Sarchuk/Painting-the-walls/assets/91730539/a32c07b7-b327-4746-bd34-2c76eef6bbf3)
